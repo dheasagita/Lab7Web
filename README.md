@@ -71,13 +71,12 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
-#Hasil TugasLab7
+# Hasil TugasLab7
 ![21](https://user-images.githubusercontent.com/81453793/118292900-51fd0d80-b503-11eb-93b5-d646b1001f28.png)
 ![22](https://user-images.githubusercontent.com/81453793/118292909-545f6780-b503-11eb-9070-88a814beee88.png)
 ![23](https://user-images.githubusercontent.com/81453793/118292911-54f7fe00-b503-11eb-85ee-aeebfeb38d1c.png)
 ![24](https://user-images.githubusercontent.com/81453793/118292917-55909480-b503-11eb-9ac6-fc21c01e6483.png)
-![25](https://user-images.githubusercontent.com/81453793/118292930-575a5800-b503-11eb-9125-33ced030d64e.png)
-![26](https://user-images.githubusercontent.com/81453793/118292934-588b8500-b503-11eb-94a9-4223e077d5e4.png)
+
 
 
 
