@@ -21,6 +21,22 @@
  ![5](https://user-images.githubusercontent.com/81453793/118241001-d3ce4600-b4c5-11eb-95b2-4c1a88de9ac0.png)
  Hasilnya 
  ![6](https://user-images.githubusercontent.com/81453793/118241044-e21c6200-b4c5-11eb-931b-334de7b3c0db.png)
+ 
+ # Langkah 5
+ ### Predefine Variable
+ Untuk mengaksesnya dapat menggunakan URL http://localhost/lab7_php_dasar/predefine.php?nama=DHEA .
+ ![7](https://user-images.githubusercontent.com/81453793/118281037-fcbaff00-b4f6-11eb-8f16-da13ce466e95.png)
+Hasilnya
+![8](https://user-images.githubusercontent.com/81453793/118281075-080e2a80-b4f7-11eb-986f-e4542fcf033d.png)
+
+# Langkah 6
+### Membuat Form Input
+![9](https://user-images.githubusercontent.com/81453793/118281143-1eb48180-b4f7-11eb-8ff1-404dcf039fb7.png)
+Hasilnya
+![10](https://user-images.githubusercontent.com/81453793/118281185-283de980-b4f7-11eb-867f-96e5271b0960.png)
+
+
+
 
 
 
