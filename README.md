@@ -36,9 +36,48 @@ Hasilnya
 ![10](https://user-images.githubusercontent.com/81453793/118281185-283de980-b4f7-11eb-867f-96e5271b0960.png)
 
 # Operator
-![11](https://user-images.githubusercontent.com/81453793/118288810-edd84a80-b4fe-11eb-88cf-2ba7aa9c04c3.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/81453793/118292241-a05ddc80-b502-11eb-97a8-f90aa60ad67a.png)
 Hasilnya
-![12](https://user-images.githubusercontent.com/81453793/118288854-f6308580-b4fe-11eb-8db6-aa08b4190653.png)
+![Screenshot (129)](https://user-images.githubusercontent.com/81453793/118292252-a2c03680-b502-11eb-9d05-fee9e4fc4b43.png)
+
+# Kondisi If
+![11](https://user-images.githubusercontent.com/81453793/118292376-c08d9b80-b502-11eb-92c5-5f6688b4946d.png)
+Hasilnya
+![12](https://user-images.githubusercontent.com/81453793/118292382-c2575f00-b502-11eb-8e3a-7689f97cdd2e.png)
+
+# Kondisi Switch
+![13](https://user-images.githubusercontent.com/81453793/118292442-d26f3e80-b502-11eb-8bc7-fd41418b7d12.png)
+Hasilnya
+![14](https://user-images.githubusercontent.com/81453793/118292447-d4390200-b502-11eb-9ea5-d01aeb6a9cc4.png)
+
+# Pengulangan For
+![15](https://user-images.githubusercontent.com/81453793/118292520-e9ae2c00-b502-11eb-87f6-7ae7c52bbcf4.png)
+Hasilnya
+![16](https://user-images.githubusercontent.com/81453793/118292529-ec108600-b502-11eb-9f6e-c9e6565f34be.png)
+
+# Pengulangan While
+![17](https://user-images.githubusercontent.com/81453793/118292592-ff235600-b502-11eb-8a32-bc128e1b535f.png)
+Hasilnya
+![18](https://user-images.githubusercontent.com/81453793/118292602-00ed1980-b503-11eb-8fca-37cf7ae5552f.png)
+
+# Pengulangan Dowhile
+![19](https://user-images.githubusercontent.com/81453793/118292665-13675300-b503-11eb-9448-cc34f8dfc63a.png)
+Hasilnya
+![20](https://user-images.githubusercontent.com/81453793/118292672-15311680-b503-11eb-81e6-e4a7afc7f2cf.png)
+
+# Pertanyaan Tugas
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.
+
+#Hasil TugasLab7
+![21](https://user-images.githubusercontent.com/81453793/118292900-51fd0d80-b503-11eb-93b5-d646b1001f28.png)
+![22](https://user-images.githubusercontent.com/81453793/118292909-545f6780-b503-11eb-9070-88a814beee88.png)
+![23](https://user-images.githubusercontent.com/81453793/118292911-54f7fe00-b503-11eb-85ee-aeebfeb38d1c.png)
+![24](https://user-images.githubusercontent.com/81453793/118292917-55909480-b503-11eb-9ac6-fc21c01e6483.png)
+![25](https://user-images.githubusercontent.com/81453793/118292930-575a5800-b503-11eb-9125-33ced030d64e.png)
+![26](https://user-images.githubusercontent.com/81453793/118292934-588b8500-b503-11eb-94a9-4223e077d5e4.png)
 
 
 
