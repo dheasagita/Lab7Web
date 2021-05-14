@@ -35,6 +35,14 @@ Hasilnya
 Hasilnya
 ![10](https://user-images.githubusercontent.com/81453793/118281185-283de980-b4f7-11eb-867f-96e5271b0960.png)
 
+# Operator
+![11](https://user-images.githubusercontent.com/81453793/118288810-edd84a80-b4fe-11eb-88cf-2ba7aa9c04c3.png)
+Hasilnya
+![12](https://user-images.githubusercontent.com/81453793/118288854-f6308580-b4fe-11eb-8db6-aa08b4190653.png)
+
+
+
+
 
 
 
